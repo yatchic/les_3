@@ -26,4 +26,13 @@ for(int i=0;i<arr.Length;i++)
 buf=+=arr[i];
 }
 ```
+
+Исправление инструкции по циклу for исправлено на гитхабе:
+```C#
+for(int i=0;i<arr.Length;i++)
+{
+buf+=arr[i];
+}
+```
+
    
